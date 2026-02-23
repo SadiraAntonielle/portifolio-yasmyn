@@ -279,3 +279,9 @@ h3{margin:0 0 6px}
   .menu-btn{display:inline-flex}
   .mobile-menu{display:block}
 }
+
+.mobile-menu{display:none;}
+
+.mobile-menu.is-open{
+  display:block;
+}
